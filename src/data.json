@@ -1,0 +1,93 @@
+{
+  "recipes": [
+    {
+      "id": 1,
+      "title": "Best Salad in the World",
+      "description": "This is a recipe for the best tasting salad in the world. It has lots of carrots and lettuce!",
+      "serves": "2 people",
+      "imageUrl": "assets/salad.jpg",
+      "ingredients": [
+        {
+          "amount": "1 head",
+          "name": "lettuce"
+        },
+        {
+          "amount": "10",
+          "name": "carrots"
+        },
+        {
+          "amount": "2 tablespoons",
+          "name": "ranch dressing"
+        }
+      ],
+      "instructions": [
+        "remove lettuce leaves",
+        "add lettuce leaves to a large bowl",
+        "then add the carrots the bowl",
+        "add the ranch dressing",
+        "then mix ingredients together in the bowl"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Chocolate Chip Cookies",
+      "description": "This was a recipe handed down to me by my grandmother Ruth who use to make the best chocolate chip cookies!",
+      "serves": "4 people",
+      "imageUrl": "assets/cookies.jpg",
+      "ingredients": [
+        {
+          "amount": "1 bag",
+          "name": "chocolate chips"
+        },
+        {
+          "amount": "2",
+          "name": "eggs"
+        },
+        {
+          "amount": "1 cup",
+          "name": "flour"
+        },
+        {
+          "amount": "1 cup",
+          "name": "sugar"
+        }
+      ],
+      "instructions": [
+        "get a large bowl",
+        "crack eggs into the bowl",
+        "add the rest of the ingredients to the bowl",
+        "mix ingredients with a whisk",
+        "then evenly place small clumps of cookie dough on a baking sheet",
+        "place baking sheet in oven for 12 minutes at 350 degrees F"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Cinco de Nachos",
+      "description": "I discovered this recipe when I went on a trip to Mexico. A nice lady taught me how to make world famous nachos.",
+      "serves": "2 adults or 4 kids",
+      "imageUrl": "assets/nachos.jpg",
+      "ingredients": [
+        {
+          "amount": "1 bag",
+          "name": "tortilla chips"
+        },
+        {
+          "amount": "1 pound",
+          "name": "shredded cheese"
+        },
+        {
+          "amount": "1 can",
+          "name": "refried beans"
+        }
+      ],
+      "instructions": [
+        "spread tortilla chips on a large plate",
+        "warm up beans in a pot on the stove",
+        "sprinkle the shredded chesse on top of the chips",
+        "place plate in the oven for 10 minutes at 350 degrees F",
+        "finally remove plate from oven and spread refriend beans on top of the chips"
+      ]
+    }
+  ]
+}
